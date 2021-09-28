@@ -1,0 +1,16 @@
+#main {
+    text-align: center;
+    font-size: 45px;
+    color: cornflowerblue;
+    text-decoration: underline;
+    text-shadow: 5px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+#tabs{
+    align-items: center;
+}
