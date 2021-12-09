@@ -28,7 +28,7 @@ getWeather().then(sols => {
     selectedSolIndex = sols.length - 1
 })
 
-funtion displaySelectedSol(sols){
+function displaySelectedSol(sols){
     const selectedSol = sols[selectedSolIndex]
     currentSolElement.innerText = selectedSol.sol
     
